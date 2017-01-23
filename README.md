@@ -7,3 +7,28 @@ Ctrl+P 	Aller n’importe où. Cherche parmi les fichiers de votre projet.
 Ctrl+R 	Aller à une fonction ou une classe dans le fichier. Équivalent à Ctrl+P, suivi de @
 Ctrl+; 	Aller à un mot dans le fichier. Équivalent à Ctrl+P, suivi de #
 Ctrl+G 	Aller à une ligne dans le fichier. Équivalent à Ctrl+P, suivi de :
+
+
+Raccourcis clavier utiles :
+
+    Clic molette : sélection verticale
+    Ctrl + Shift + P : Commandes
+    Ctrl + P : Accès rapide aux fichiers
+    Ctrl + G : Accès au numéro de ligne
+    Ctrl + R : Accès direct par terme (par ex liste des sélecteurs en CSS)
+    Ctrl + Shift + D : Dupliquer une ligne
+    Ctrl + Shift + F : Recherche dans les fichiers du projet
+    Ctrl + H : Remplacer
+    Ctrl + X : Supprimer la ligne
+    Ctrl + / : Mettre en commentaires (PHP, HTML, …)
+    Ctrl + D : Sélectionner l’occurrence identique suivante
+    Alt + F3 : Sélectionner toutes les occurrences (génial !)
+    Ctrl + Shift + M : Sélectionner tout entre les parenthèses/accolades
+    Ctrl + PageUp/PageDown : Se déplacer dans les onglets
+    Ctrl + Shift + T : Réouvrir le dernier onglet fermé
+    Alt + Shift + 1/2/3/4/5 : Vues splittées
+    Ctrl + F2 : Placer un signet
+    F2 : Aller au signet suivant
+    Ctrl + KU : Met le texte sélectionné en uppercase
+    Ctrl + KL : Met le texte sélectionné en lowercase
+    F9 : tri par ordre alphabétique
